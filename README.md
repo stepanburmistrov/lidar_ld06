@@ -27,6 +27,7 @@ LD06 → ESP32 → USB Serial → Python → live XY-график / фильтр
 ### 1) Фото
 
 ![Photo](images/photo.jpg)
+![Photo](images/photoELBEAR.jpg)
 
 ### 2) Подключение LD06 к ESP32
 
