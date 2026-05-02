@@ -30,7 +30,7 @@ LD06 → ESP32 → USB Serial → Python → live XY-график / фильтр
 
 ### 2) Подключение LD06 к ESP32
 
-![Wiring](images/wire.png)
+![Wiring](images/wire.jpg)
 
 ### 3) Окно визуализации
 
