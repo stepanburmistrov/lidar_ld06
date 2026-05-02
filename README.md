@@ -39,12 +39,8 @@ LD06 → ESP32 → USB Serial → Python → live XY-график / фильтр
 
 ### 4) GIF-демо
 
+![Работа лидара](images/points.gif)
 
-```md
-<p align="center">
-  <img src="images/points.gif" alt="LD06 live demo" width="700">
-</p>
-```
 
 
 ## Аппаратная схема
